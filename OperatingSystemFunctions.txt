@@ -1,0 +1,3 @@
+Windows is an operating system with many features.
+One of which is Plug and Play which automatically detects drivers for devices.
+This is nice because it saves the hassle of having to configure your own devices. 
