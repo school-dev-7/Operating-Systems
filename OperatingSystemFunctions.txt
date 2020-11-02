@@ -1,3 +1,7 @@
 Windows is an operating system with many features.
 One of which is Plug and Play which automatically detects drivers for devices.
 This is nice because it saves the hassle of having to configure your own devices. 
+
+Windows allows for both a GUI and Command-line input method.
+The GUI for Windows is very intuitive for all users.
+The command promt allows for full configuration and analytics of your computer.
